@@ -12,7 +12,7 @@
 .img {
     border-radius: 50%;
     max-width: 300px;
-    box-shadow: 10px 10px #190061;
+    box-shadow: 10px 10px #2b4681;
     
 }
 
@@ -22,12 +22,24 @@
     margin-top: 30px;
 }
 
+.hover-text {
+    position: relative;
+    top: -60px;
+}
+
+.tech-stack {
+    color: white;
+    font-size: .75em;
+}
 
 .link {
     color: white;
     font-weight: 600;
 }
 
+.link:hover {
+    color: black;
+}
 
 .media-body {
     text-align: center;

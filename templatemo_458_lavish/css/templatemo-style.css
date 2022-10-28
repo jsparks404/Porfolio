@@ -208,7 +208,7 @@ h1,h2,h3,h4,h5
     }
 #home .btn:hover
     {
-        background: #3500D3;
+        background: #2b4681 ;
         border-color: transparent;
     }
 /* end home */
@@ -232,7 +232,7 @@ h1,h2,h3,h4,h5
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
-        color: #3500D3;
+        color: #2b4681;
         font-size: 24px;
         margin-right: 24px;
         width: 60px;
@@ -259,7 +259,7 @@ h1,h2,h3,h4,h5
 #about h4
     {
         padding: 15px 0;
-		color: #3500D3;
+		color: #2b4681;
     }
 #about .progress
     {
@@ -269,7 +269,7 @@ h1,h2,h3,h4,h5
     }
 #about .progress .progress-bar-danger
     {
-        background: #3500D3;
+        background: #2b4681;
     }
 #about .text-top
     {
@@ -307,7 +307,7 @@ h1,h2,h3,h4,h5
     }
 #portfolio .portfolio-thumb .portfolio-overlay
     {
-        background: #3500D3;
+        background: #2b4681;
         top: 0;
         left: 0;
         right: 0;
@@ -345,7 +345,7 @@ h1,h2,h3,h4,h5
     {
         border: 2px solid #ffffff;
         border-radius: 50%;
-        color: #3500D3;
+        color: #2b4681;
         width: 50px;
         height: 50px;
         line-height: 45px;
@@ -367,7 +367,7 @@ h1,h2,h3,h4,h5
     }
 #contact input[type="submit"]
     {
-        background: #3500D3;
+        background: #2b4681;
         border: 2px solid transparent;
         color: #ffffff;
         font-weight: bold;
@@ -420,6 +420,6 @@ footer hr
     }
 .social-icon li a:hover
     {
-        color: #3500D3;
+        color: #2b4681;
     }
 /* end social icon */
