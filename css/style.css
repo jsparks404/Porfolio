@@ -43,10 +43,13 @@
 
 .media-body {
     text-align: center;
+
 }
 
 #skills {
     text-decoration: underline;
+    position: relative;
+    left: -30px;
 }
 
 #about {
@@ -56,6 +59,9 @@
     align-items: center;
 }
 
+#about-container {
+    text-align: center;
+}
 
 h2 {
     text-decoration: underline;
