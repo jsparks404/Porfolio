@@ -1,12 +1,11 @@
 
 .name {
-    background-color: #00000074;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.177), rgba(0, 0, 0, 0.553), rgba(0, 0, 0, 0.177));
 }
 
 .title {
-    background-color: #00000074;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.177), rgba(0, 0, 0, 0.553), rgba(0, 0, 0, 0.177));
 }
-
 
 
 .img {
@@ -59,9 +58,6 @@
     align-items: center;
 }
 
-#about-container {
-    text-align: center;
-}
 
 h2 {
     text-decoration: underline;
@@ -82,3 +78,16 @@ h2 {
     text-decoration: none;
     background-color: #2b4681;
 }
+
+
+.contact-title {
+    text-align: center;
+}
+
+#address {
+    display: flex;
+    justify-content: center;
+}
+
+
+
