@@ -49,7 +49,7 @@
 #skills {
     text-decoration: underline;
     position: relative;
-    left: -30px;
+    /* left: -30px; */
 }
 
 #about {
@@ -82,6 +82,7 @@ h2 {
 
 
 .contact-title {
+    
     text-align: center;
 }
 

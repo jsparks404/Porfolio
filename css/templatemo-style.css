@@ -13,6 +13,7 @@ body
 	font-family: 'Raleway', sans-serif;
 	font-size: 16px;
 	font-weight: 400;
+    text-align: center;
 }
 
 /* start all section */
@@ -256,6 +257,10 @@ h1,h2,h3,h4,h5
 /* end work */
 
 /* start about */
+#about {
+    
+}
+
 #about h4
     {
         padding: 15px 0;
