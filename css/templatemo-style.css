@@ -308,7 +308,7 @@ h1,h2,h3,h4,h5
         overflow: hidden;
         position: relative;
         margin-bottom: 30px;
-        min-width: 300px;
+        /* min-width: 300px; */
         max-width: 300px;
         box-shadow: 10px 5px black;
     }
